@@ -38,3 +38,6 @@ This is a game who imitates the GALAXY original game with structure simple progr
 
 >[!CAUTION]
 >CONTROLS ARE KEYBOARD AS FOLLOWS: UP, DONW, RIGHT, LEFT arrows, and the pause menu is ESC key
+
+>[!IMPORTANT]
+>I use this page to convert the code ASCII: https://www.asciiarthub.com/ascii-art-generator.html
