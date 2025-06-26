@@ -35,3 +35,6 @@ This is a game who imitates the GALAXY original game with structure simple progr
 ![IMG 5](https://github.com/user-attachments/assets/00038632-1591-42ce-a230-d7e182017fae)
 
 </div>
+
+>[!CAUTION]
+>CONTROLS ARE KEYBOARD AS FOLLOWS: UP, DONW, RIGHT, LEFT arrows, and the pause menu is ESC key
